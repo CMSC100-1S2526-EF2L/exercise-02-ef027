@@ -1,12 +1,12 @@
 # Exercise 02: HTML and CSS
 
-**Name:** [Your Name]  
-**Degree Program:** BS Computer Science  
+Name: Matias, Eric Francis D.
+Degree Program: BS Statistics
 
 ---
 
 ## 🌐 Live Website
-[GitHub Pages Link](https://cmsc100-1s2324.github.io/my-github-page-[your-username])
+[GitHub Pages Link]https://ef027.github.io/
 
 ---
 
