@@ -1,7 +1,7 @@
 # Exercise 02: HTML and CSS
 
-**Name:** Matias, Eric Francis D.
-**Degree Program:** BS Statistics
+Name: Matias, Eric Francis D.
+Degree Program: BS Statistics
 
 ---
 
