@@ -1,16 +1,16 @@
-# Exercise 02: HTML and CSS
+Exercise 02: HTML and CSS
 
 Name: Matias, Eric Francis D.
 Degree Program: BS Statistics
 
 ---
 
-## 🌐 Live Website
+Live Website
 [GitHub Pages Link]https://ef027.github.io/
 
 ---
 
-## 📌 Steps to Create GitHub Page
+Steps to Create GitHub Page
 1. Create a repository from the GitHub Classroom link.  
 2. Add `index.html` and `style.css` to the repository.  
 3. Commit and push the changes.  
@@ -19,7 +19,7 @@ Degree Program: BS Statistics
 
 ---
 
-## 📝 Key Takeaways
+Key Takeaways
 - I learned how to make a simple portfolio using only HTML and CSS.  
 - I practiced organizing files and writing commits on GitHub.  
 - I was able to publish my work online using GitHub Pages.  
