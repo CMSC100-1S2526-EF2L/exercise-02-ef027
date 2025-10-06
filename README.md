@@ -6,8 +6,7 @@ Degree Program: BS Statistics
 ---
 
 Live Website
-[GitHub Pages Link]https://ef027.github.io/
-
+[GitHub Pages Link]https:// CMSC100-1S2526-EF2L-classroom-79d696/exercise-02-ef027/
 ---
 
 Steps to Create GitHub Page
